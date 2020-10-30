@@ -3,6 +3,7 @@ Plotagem animada do Atrator de Lorenz, implementada em Python usando o método d
 
 ![Lorenz](https://user-images.githubusercontent.com/65929471/97719774-3f127680-1aa6-11eb-9b83-0535a56469f5.gif)
 
+---
 ## Teoria
 O atrator Lorenz é um conjunto de soluções caóticas de um sistema de equações diferenciais ordinárias chamado sistema de Lorenz. Estudado pela primeira vez por Edward Lorenz com a ajuda de Ellen Fetter, que desenvolveram um modelo matemático simplificado para a convecção atmosférica. O modelo é um sistema de três EDOs:
 
