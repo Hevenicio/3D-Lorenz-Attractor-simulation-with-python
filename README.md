@@ -1,5 +1,6 @@
 # Atrator-de-Lorenz-em-Python
-Plotagem animada do Atrator de Lorenz, implementada em Python usando o método de Runge-Kutta de 4ª ordem.
+
+Animação 3D do Atrator de Lorenz, implementada em Python usando o método de Runge-Kutta de 4ª ordem.
 
 ![Lorenz](https://user-images.githubusercontent.com/65929471/97719774-3f127680-1aa6-11eb-9b83-0535a56469f5.gif)
 
