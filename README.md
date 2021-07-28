@@ -1,4 +1,4 @@
-# Atrator-de-Lorenz-em-Python
+# 3D-Lorenz-Attractor-simulation-with-python
 
 Animação 3D da trajetória do Atrator de Lorenz, implementada em Python usando o método de Runge-Kutta de 4ª ordem.
 
