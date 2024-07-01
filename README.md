@@ -5,7 +5,7 @@
 <!--![Lorenz](https://user-images.githubusercontent.com/65929471/97719774-3f127680-1aa6-11eb-9b83-0535a56469f5.gif)-->
 
 <div align="center"> 
-    <img width=80% height=50% src="https://github.com/Hevenicio/3D-Lorenz-Attractor-simulation-with-python/assets/65929471/22a68478-b00f-4672-9371-ed1d8d91d612"/>
+    <img src="https://github.com/Hevenicio/3D-Lorenz-Attractor-simulation-with-python/assets/65929471/22a68478-b00f-4672-9371-ed1d8d91d612"/>
 </div>
 
 ## Theory
